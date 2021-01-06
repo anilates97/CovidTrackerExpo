@@ -1,5 +1,4 @@
-# CovidTrackerExpo
-
+# Covid Tracker Uygulaması
 Bu uygulama dünya geneli coronavirüs tablosunu ve ülkelere ait olan coronavirüs tablosunu <br>
 bize gösteriyor. Bunu API’den çekerek yapıyor. <br>
 
